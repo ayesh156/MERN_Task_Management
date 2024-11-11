@@ -1,13 +1,10 @@
 const express = require("express");
 const app = express();
-const path = require("path");
 require("dotenv").config();
 require("./conn/conn");
 const cors = require("cors");
 const UserAPI = require("./routes/user");
 const TaskAPI = require("./routes/task");
-
-app.use(express.static(path.join(__dirname + "/public")));
 
 app.use(cors());
 app.use(express.json());
