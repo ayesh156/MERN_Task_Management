@@ -5,6 +5,9 @@ require("./conn/conn");
 const cors = require("cors");
 const UserAPI = require("./routes/user");
 const TaskAPI = require("./routes/task");
+
+app.use(express.static(path.join(__dirname + "/public")));
+
 app.use(cors());
 app.use(express.json());
 app.use("/api/v1", UserAPI);
