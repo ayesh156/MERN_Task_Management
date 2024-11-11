@@ -1,4 +1,7 @@
+// Import mongoose library to work with MongoDB
 const mongoose = require('mongoose');
+
+// Define a schema for the 'user' model
 const userSchema = new mongoose.Schema({
     username: {
         type: String,
@@ -22,4 +25,5 @@ const userSchema = new mongoose.Schema({
     ],
 });
 
+// Export the 'User' model, which is based on the 'userSchema'
 module.exports = mongoose.model('User', userSchema);

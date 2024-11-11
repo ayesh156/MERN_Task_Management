@@ -1,4 +1,6 @@
+// Import mongoose library to work with MongoDB
 const mongoose = require('mongoose');
+// Define a schema for the 'task' model
 const taskSchema = new mongoose.Schema({
     title: {
         type: String,
@@ -22,4 +24,5 @@ const taskSchema = new mongoose.Schema({
 },{timestamps: true}
 );
 
+// Export the 'task' model, which is based on the 'taskSchema'
 module.exports = mongoose.model('task', taskSchema);
