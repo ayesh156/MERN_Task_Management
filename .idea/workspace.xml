@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e1d782c-e2c1-488d-b617-e46b821ab2e2" name="Changes" comment="Backend Vercel Commit 2" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///JetClient Request Console" root0="SKIP_INSPECTION" />
+    <setting file="mock:///JetClient Request Console" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2oQMxIp9CLT3P9id8rnqmXphDAa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Project/React/Task Management",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.2.0.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\OneDrive - MSFT\Learning\React\Task Management\backend\routes" />
+      <recent name="D:\OneDrive\OneDrive - MSFT\Learning\React\Task Management\backend" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-WS-242.20224.426" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e1d782c-e2c1-488d-b617-e46b821ab2e2" name="Changes" comment="" />
+      <created>1730797590343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730797590343</updated>
+      <workItem from="1730797591406" duration="202000" />
+      <workItem from="1730875665632" duration="5353000" />
+      <workItem from="1730881754212" duration="1380000" />
+      <workItem from="1730892429185" duration="14987000" />
+      <workItem from="1731173004107" duration="216000" />
+      <workItem from="1731177204931" duration="872000" />
+      <workItem from="1731178107781" duration="151000" />
+      <workItem from="1731178262770" duration="30000" />
+      <workItem from="1731178295332" duration="292000" />
+      <workItem from="1731178592202" duration="1241000" />
+      <workItem from="1731179878378" duration="3793000" />
+      <workItem from="1731192394949" duration="96000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1731178497267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731178497267</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1731180104260</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731180104260</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Backend Vercel Commit">
+      <option name="closed" value="true" />
+      <created>1731180804437</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731180804437</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Backend Vercel Commit 2">
+      <option name="closed" value="true" />
+      <created>1731181256406</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731181256406</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Backend Vercel Commit 2">
+      <option name="closed" value="true" />
+      <created>1731181737660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1731181737660</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Backend Vercel Commit 2">
+      <option name="closed" value="true" />
+      <created>1731182772042</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731182772042</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/frontend" />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Backend Vercel Commit" />
+    <MESSAGE value="Backend Vercel Commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Backend Vercel Commit 2" />
+  </component>
+</project>
